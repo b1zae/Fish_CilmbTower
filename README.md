@@ -3,9 +3,15 @@
 
 # 要求
 numpy < 2
+
 pywin32
+
 pillow
+
 PySide6
+
 FuzzyWuzzy
+
 paddlepaddle 2.7.2
+
 paddleocr 2.6.3
